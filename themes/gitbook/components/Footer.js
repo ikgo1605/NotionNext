@@ -52,9 +52,9 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://www.haokuaixian.com'
+          href='https://surv.to/jms3'
           className='underline text-gray-500 dark:text-gray-300'>
-         HaoKuaiXian
+         Just My Socks
         </a>
       </div>
       {/* SEO title */}
