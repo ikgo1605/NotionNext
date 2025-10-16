@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://surv.to/jms3'
         className='underline justify-start'>
-        Just My Socks
+        搬瓦工|Just My Socks
       </a>
       .
     </div>
