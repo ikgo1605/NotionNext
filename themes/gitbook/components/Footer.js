@@ -52,9 +52,9 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://surv.to/jms3'
+          href='https://surv.to/jms'
           className='underline text-gray-500 dark:text-gray-300'>
-         Just My Socks
+         搬瓦工｜Just My Socks
         </a>
       </div>
       {/* SEO title */}
